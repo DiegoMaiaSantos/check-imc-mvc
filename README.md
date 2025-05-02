@@ -55,7 +55,7 @@ Check_IMC/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/DiegoMaiaSantos/check-imc-mvc
+   git clone https://github.com/DiegoMaiaSantos/check-imc-mvc.git
    ```
 
 2. Navegue até o diretório do projeto:
